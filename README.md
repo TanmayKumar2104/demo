@@ -1,4 +1,4 @@
 # demo
-this is mt first git repository
+this is my first git repository
 <br>
 author - Tanmay Kumar
